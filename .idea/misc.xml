@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/ic_google.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/imagebut.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/radio_checked.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/radio_selector.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/radio_unchecked.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/drawable/radiogroup.xml" value="0.2734375" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/layout/activity_main.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/Admin/Desktop/kotlin/question1/app/src/main/res/layout/activity_second.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
